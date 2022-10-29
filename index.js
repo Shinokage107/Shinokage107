@@ -35,7 +35,7 @@ async function setInstagramPosts() {
   DATA.img3 = instagramImages[2];
 }
 
-async function action() {
+/*async function action() {
   await setInstagramPosts();
   generateReadMe();
 
@@ -43,3 +43,6 @@ async function action() {
 }
 
 action();
+*/
+
+generateReadMe();
