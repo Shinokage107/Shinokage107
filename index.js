@@ -42,4 +42,4 @@ async function action() {
   await puppeteerService.close();
 }
 
-await action();
+action();
