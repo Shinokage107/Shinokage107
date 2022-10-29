@@ -1,0 +1,22 @@
+{
+  "name": "shinokage107",
+  "version": "1.0.0",
+  "description": "Git Profile Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shinokage107/Shinokage107.git"
+  },
+  "author": "Shino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shinokage107/Shinokage107/issues"
+  },
+  "homepage": "https://github.com/Shinokage107/Shinokage107#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

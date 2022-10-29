@@ -1,0 +1,9 @@
+##Node and Composer Modules
+node_modules
+vendor
+
+##EnviromentVariables
+.env
+
+##Workplace
+.vscode
