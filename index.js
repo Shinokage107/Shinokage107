@@ -1,7 +1,6 @@
 const Mustache = require("mustache");
 const fs = require("fs");
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-const puppeteerService = require("./services/puppeteer.service");
 
 let DATA = {
   name: "Alexander",
@@ -23,26 +22,5 @@ function generateReadMe() {
     fs.writeFileSync("README.md", output);
   });
 }
-
-async function setInstagramPosts() {
-  const instagramImages =
-    await puppeteerService.getLatestInstagramPostsFromAccount(
-      "visitstockholm",
-      3
-    );
-  DATA.img1 = instagramImages[0];
-  DATA.img2 = instagramImages[1];
-  DATA.img3 = instagramImages[2];
-}
-
-/*async function action() {
-  await setInstagramPosts();
-  generateReadMe();
-
-  await puppeteerService.close();
-}
-
-action();
-*/
 
 generateReadMe();
