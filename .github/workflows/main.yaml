@@ -9,6 +9,8 @@ on:
 
 jobs:
   build:
+    runs: "node16"
+    main: "index.js"
     runs-on: ubuntu-latest
 
     steps:
