@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Alexander</h1>
 <h3 align="center">Ongoing Junior Java Dev</h3>
 <p align="center">
-<a href="https://twitter.com/shinokage107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinokage107" height="30" width="40" /></a>
-<a href="https://discord.gg/8238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8238" height="30" width="40" /></a>
+<a href="https://github.com/Shinokage107" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://twitter.com/Shinokage107" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&message=Shino#8238" /></a>
 </p>
 <hr>
 <hr>
@@ -31,5 +32,5 @@
     <img alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center">Last refresh: Saturday, 29 October at 21:19 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">Last refresh: Saturday, 29 October at 21:36 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/Shinokage107/shinokage107/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/Shinokage107/shinokage107?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/Shinokage107/shinokage107?style=flat-square&labelColor=343b41"/></p>
