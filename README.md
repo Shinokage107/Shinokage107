@@ -7,12 +7,13 @@
 <a href="https://discordapp.com/users/225274418857771008" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 <hr>
-<p> Im always hungry to learn more and get better in what im doing. 
-<br> Besides my apprenticemenship im pretty much hopping from side project to side project to learn new stuff and experiment. 
-<br> Tho most of the time my main focus is to create something for games or even create games. I spent over 5 years creating games with unity and even published one on steam ^^
-<br> I like to visualize stats or images in gallerys or make them more accessible through bots wich is why a lot of my projects are websites or discord bots.
-<br> I also dabled a lot in 3D Rendering/Compositing, Modding, Animationg, Drawing and Game VFX as it was necessarily for GameDevelopement
-<br> This is my private github so u will find horrible old code here, just a warning. If u find something usefull or have a better solution for my active Projects, pls let me know i would love to learn better ways to implement those things. 
+<p align="center">Im always hungry to learn more and get better in what im doing.
+Besides my apprenticeship im pretty much hopping from side project to side project to learn new stuff and experiment.
+Tho most of the time my main focus is to create something for games or even create games. I spent over 5 years creating games with unity and even published one on steam ^^
+I like to visualize stats or images in galleries or make them more accessible through bots which is why a lot of my projects are websites or discord bots.
+I also dabled a lot in 3D Rendering/Compositing, Modding, Animations, Drawing and Game VFX as it was necessarily for Game-Development
+This is my private github so u will find horrible old code here, just a warning. If u find something usefull or have a better solution for my active projects, pls let me know i would love to learn better ways to implement those things.
+</p>
 <hr>
 <h3 align="center"> My Skills </h3>
 <p align="center">
@@ -40,5 +41,5 @@
     <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
 </p>
 
-<p align="center">Last refresh: Saturday, 29 October at 21:56 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">Last refresh: Saturday, 29 October at 22:01 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/Shinokage107/shinokage107/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/Shinokage107/shinokage107?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/Shinokage107/shinokage107?style=flat-square&labelColor=343b41"/></p>
