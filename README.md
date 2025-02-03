@@ -41,5 +41,5 @@ This is my private github so u will find horrible old code here, just a warning.
     <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
 </p>
 
-<p align="center">Last refresh: Sunday, 2 February at 19:06 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">Last refresh: Monday, 3 February at 01:26 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/Shinokage107/shinokage107/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/Shinokage107/shinokage107?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/Shinokage107/shinokage107?style=flat-square&labelColor=343b41"/></p>
